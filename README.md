@@ -4,6 +4,7 @@ This dataset was created to list all shows and movies available on Netflix. It w
 
 Content
 This dataset contains two files, one for the titles (titles.csv) and the other for the cast (credits.csv) of each movie and show on the platform.
+As the dataset was too big to handle and upload at the same time, that's why
 
 The titles.csv contains more than 6k titles, witch 15 columns containing:
 
